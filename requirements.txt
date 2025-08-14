@@ -1,0 +1,12 @@
+streamlit==1.48.0
+pandas==1.5.3
+numpy==1.24.2
+scikit-learn==1.5.1
+xgboost==2.1.0
+lightgbm==4.4.0
+catboost==1.2.8
+plotly==5.22.0
+streamlit-option-menu==0.3.12
+imbalanced-learn==0.12.3
+joblib==1.4.2
+google-generativeai==0.7.2
