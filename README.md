@@ -2,7 +2,7 @@
 <div align="center">
   <br />
     <a href="#" target="_blank">
-      <img src="https://via.placeholder.com/1200x400/2E3440/88C0D0?text=RetentionIQ+-+Employee+Attrition+Prediction" alt="RetentionIQ Banner">
+      <img src="https://github.com/user-attachments/assets/85df4550-202b-41fa-bf2d-5ecd46936235" alt="RetentionIQ Banner">
     </a>
   <br />
 
