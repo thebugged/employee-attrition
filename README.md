@@ -2,16 +2,14 @@
 <div align="center">
   <br />
     <a href="#" target="_blank">
-      <img src="https://via.placeholder.com/1200x400/2E3440/88C0D0?text=RetentionIQ+-+Employee+Attrition+Prediction" alt="RetentionIQ Banner">
+      <img src="https://github.com/user-attachments/assets/85df4550-202b-41fa-bf2d-5ecd46936235" alt="RetentionIQ Banner">
     </a>
   <br />
 
   <div>
     <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logoColor=white&logo=python&color=3776AB" alt="python" />
     <img src="https://img.shields.io/badge/-Streamlit-black?style=for-the-badge&logoColor=white&logo=streamlit&color=FF4B4B" alt="streamlit" />
-    <img src="https://img.shields.io/badge/-CatBoost-black?style=for-the-badge&logoColor=white&logo=&color=FFCC00" alt="catboost" />
-    <img src="https://img.shields.io/badge/-XGBoost-black?style=for-the-badge&logoColor=white&logo=&color=337AB7" alt="xgboost" />
-    <img src="https://img.shields.io/badge/-LightGBM-black?style=for-the-badge&logoColor=white&logo=&color=02569B" alt="lightgbm" />
+    <img src="https://img.shields.io/badge/-Scikit--Learn-black?style=for-the-badge&logoColor=white&logo=scikit-learn&color=F7931E" alt="scikit-learn" />
     <img src="https://img.shields.io/badge/-Plotly-black?style=for-the-badge&logoColor=white&logo=plotly&color=3F4F75" alt="plotly" />
     <img src="https://img.shields.io/badge/-Google_AI-black?style=for-the-badge&logoColor=white&logo=google&color=4285F4" alt="google-ai" />
   </div>
@@ -19,7 +17,7 @@
   <h3 align="center">Employee Attrition Prediction</h3>
 
    <div align="center">
-     THis application uses advanced machine learning to predict employee attrition risk before it happens.
+     This application uses advanced machine learning to predict employee attrition risk before it happens.
     </div>
 </div>
 <br/>
