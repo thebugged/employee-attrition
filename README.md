@@ -19,7 +19,7 @@
   <h3 align="center">Employee Attrition Prediction</h3>
 
    <div align="center">
-     THis application uses advanced machine learning to predict employee attrition risk before it happens.
+     This application uses advanced machine learning to predict employee attrition risk before it happens.
     </div>
 </div>
 <br/>
