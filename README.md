@@ -39,7 +39,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/employee-attrition.git
+git clone https://github.com/thebugged/employee-attrition.git
 ```
 
 2. Change into the project directory:
