@@ -1,7 +1,7 @@
 
 <div align="center">
   <br />
-    <a href="#" target="_blank">
+    <a href="https://employee-attrition-riq.streamlit.app/" target="_blank">
       <img src="https://github.com/user-attachments/assets/85df4550-202b-41fa-bf2d-5ecd46936235" alt="RetentionIQ Banner">
     </a>
   <br />
@@ -68,7 +68,7 @@ streamlit run main.py
 
 2. Open your browser and navigate to `http://localhost:8501`
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://employee-attrition-riq.streamlit.app/)
 
 
 
